@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "govbot-counties": { "type": "http", "url": "https://counties.govbot.ai/mcp" },
+    "govbot-water": { "type": "http", "url": "https://water.govbot.ai/mcp" },
+    "govbot-tides": { "type": "http", "url": "https://tides.govbot.ai/mcp" },
+    "govbot-earthquakes": { "type": "http", "url": "https://earthquakes.govbot.ai/mcp" },
+    "govbot-lands": { "type": "http", "url": "https://lands.govbot.ai/mcp" },
+    "govbot-structures": { "type": "http", "url": "https://structures.govbot.ai/mcp" },
+    "govbot-environment": { "type": "http", "url": "https://environment.govbot.ai/mcp" },
+    "govbot-designations": { "type": "http", "url": "https://designations.govbot.ai/mcp" },
+    "govbot-disasters": { "type": "http", "url": "https://disasters.govbot.ai/mcp" }
+  }
+}

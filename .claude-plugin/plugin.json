@@ -1,0 +1,22 @@
+{
+  "name": "govbot-site-risk",
+  "displayName": "GovBot Site & Community Risk",
+  "description": "Screening workflows for a site or a county that read nine read-only, keyless GovBot connectors of federal public data: county hazard and flood study records, weather and water observations, tides and elevation, earthquakes and landslides, public lands and fire perimeters, structure inventory, environmental layers, federal designated areas and disaster history. Each result keeps its publisher and date.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ideation Lab, Corp.",
+    "url": "https://govbot.ai",
+    "email": "hello@govbot.ai"
+  },
+  "homepage": "https://govbot.ai",
+  "license": "MIT",
+  "keywords": [
+    "public-data",
+    "hazards",
+    "site-screening",
+    "county",
+    "federal-data"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://github.com/ideationlab/govbot-site-risk-plugin/blob/main/PRIVACY.md"
+}
