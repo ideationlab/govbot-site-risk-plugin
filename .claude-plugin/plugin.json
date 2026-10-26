@@ -18,5 +18,9 @@
     "federal-data"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://github.com/ideationlab/govbot-site-risk-plugin/blob/main/PRIVACY.md"
+  "privacyPolicyUrl": "https://github.com/ideationlab/govbot-site-risk-plugin/blob/main/PRIVACY.md",
+  "repository": "https://github.com/ideationlab/govbot-site-risk-plugin",
+  "documentationUrl": "https://github.com/ideationlab/govbot-site-risk-plugin#readme",
+  "supportUrl": "mailto:hello@govbot.ai",
+  "termsOfServiceUrl": "https://github.com/ideationlab/govbot-site-risk-plugin/blob/main/TERMS.md"
 }

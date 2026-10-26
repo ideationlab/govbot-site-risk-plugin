@@ -25,7 +25,7 @@ Prepared 2026-10-26 by a Claude Code session. Not submitted; the owner submits. 
 
 | Constraint | State |
 | - | - |
-| Contents limited to skills and remote connector references | 3 `SKILL.md` files, `.mcp.json`, `plugin.json`, one PNG icon, `README.md`, `PRIVACY.md`, `LICENSE`, `.gitignore`, this file |
+| Contents limited to skills and remote connector references | 3 `SKILL.md` files, `.mcp.json`, `plugin.json`, one PNG icon, `README.md`, `PRIVACY.md`, `TERMS.md`, `LICENSE`, `.gitignore`, this file |
 | No hooks, scripts, local servers, launchers, `package.json`, lockfiles, binaries, `.mcpb`/`.dxt`, `!` shell lines | None present (checked against the list of committed files and by text search) |
 | Only image an optional PNG icon | the bundled GovBot PNG icon (512 x 512 PNG, 18.9 KB) used by the County Hazards and Community Designations connectors |
 | Nine `type: "http"` servers at the approved URLs, no headers or credentials | `.mcp.json` |
