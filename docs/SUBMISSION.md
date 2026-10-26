@@ -16,9 +16,9 @@ Prepared 2026-10-26 by a Claude Code session. Not submitted; the owner submits. 
 
 | Question | Answer |
 | - | - |
-| Reads or stores personal data | No. The plugin stores nothing. A street address typed for a site screening is sent to `designations.govbot.ai` for geocoding and is not retained by the plugin. |
+| Reads or stores personal data | Reads only. A street address typed for a site screening is sent to `designations.govbot.ai` for geocoding; the plugin stores nothing. |
 | Sends data to services other than its declared connectors | No. Requests go only to the nine govbot.ai MCP servers in `.mcp.json`. |
-| How long it keeps data | Not retained. The plugin has no storage. |
+| How long the service retains data | Under 30 days. The plugin has no storage; the nine servers retain operational request logs for 30 days, per their privacy pages. |
 | Intended for people under 18 | No. |
 
 ## Design constraints and how they are met

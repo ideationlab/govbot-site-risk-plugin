@@ -33,7 +33,7 @@ Each connector is also listed on its own in the Claude directory. This plugin re
 - The plugin stores no data. It has no local files that record prompts or results.
 - Requests go only to the nine govbot.ai servers listed above. Those servers read the federal sources named in the table.
 - No account, sign-in, API key or other credential is needed. The plugin reads no environment variables and sends no headers.
-- The plugin does not collect personal data. A street address entered for a site screening is sent to the `govbot-designations` server, which matches it with the Census Bureau Geocoder to obtain a point.
+- The plugin does not ask for personal data. A street address entered for a site screening is sent to the `govbot-designations` server, which matches it with the Census Bureau Geocoder to obtain a point; the plugin does not store it. The servers keep operational request logs for 30 days, as stated in their privacy policies (see `PRIVACY.md`).
 
 ## Skills and example prompts
 

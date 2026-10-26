@@ -24,7 +24,7 @@ When a skill runs, Claude sends tool arguments (coordinates, place or county nam
 
 ## Personal data
 
-The plugin does not request or collect personal data. Tool arguments are not to include confidential information or sensitive personal data. The plugin is not intended for people under 18.
+The plugin does not ask for personal data. A street address typed for a site screening is sent to designations.govbot.ai, which matches it with the Census Bureau Geocoder to obtain a point; the plugin does not store it. The servers keep operational request logs for 30 days, as their privacy policies state. Tool arguments are not to include confidential information or sensitive personal data. The plugin is not intended for people under 18.
 
 ## Contact
 
